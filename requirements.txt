@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+data-morph-ai
+scipy
+reportlab
+pillow
+yfinance
+requests
